@@ -9,6 +9,8 @@ For each subject I will create a page in Notion with my class notes and also bui
 ## Topics
 **1. Cluster**
 
-- [Class notes](https://www.notion.so/Unsuperviserd-Machine-Learning-Clustering-I-5a267291e6fc45478c35a2ff14334b70)
-
 - [Project: A k-means abordage to divide mining areas based on its vegetation](https://github.com/marcuszucareli/image-segmentation-vegetation)
+
+**2. PCA**
+
+- [Project: Housing market study using PCA](https://github.com/marcuszucareli/housing-data-insights)
