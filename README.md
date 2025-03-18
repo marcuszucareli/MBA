@@ -14,7 +14,7 @@ For each subject, I will build a project related to the topic I'm currently stud
 **2. PCA**
 
 - [Project: Housing market study using PCA](https://github.com/marcuszucareli/housing-data-insights)
-
-**2. Data Visualization **
+- 
+**3. Data Visualization**
 
 - [Project: Interactive Slope Calculator](https://github.com/marcuszucareli/slope-variance-study)
