@@ -1,10 +1,10 @@
 # MBA
-A place to save my class notes and projects developed during my MBA in data science and analytics
+A place to save my projects developed during my MBA in data science and analytics
 
 # Data Science and Analytics Repository
-The purpose of this repository is to save my class notes and projects developed during my MBA in data science and analytics. Share knowlodge is a way to learn more about the subjects we are studying.
+The purpose of this repository is to save the projects I have developed during my MBA in data science and analytics. Sharing knowledge is a way to learn more about the subjects we are studying.
 
-For each subject I will create a page in Notion with my class notes and also build a project related to the topic I'm currently studying.
+For each subject, I will build a project related to the topic I'm currently studying.
 
 ## Topics
 **1. Cluster**
@@ -14,3 +14,7 @@ For each subject I will create a page in Notion with my class notes and also bui
 **2. PCA**
 
 - [Project: Housing market study using PCA](https://github.com/marcuszucareli/housing-data-insights)
+- 
+**2. Data Visualization **
+
+- [Project: Interactive Slope Calculator](https://github.com/marcuszucareli/slope-variance-study)
